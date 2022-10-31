@@ -32,6 +32,11 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# CAP-CDS source file
+# The language has been harder to find since logging it in the past 2 weeks, so this extension is just a guess. I don't know what happened, it used to be a searchable result.
+*.cap linguist-detectable=true
+*.cap linguist-documentation=false
+*.cap linguist-language=CAP-CDS
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -164,7 +169,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Sunday, October 30th at 7:15 pm PST)
+# Line count (including blank lines and compiler line): 176
 # End of script
